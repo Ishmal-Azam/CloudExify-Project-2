@@ -128,7 +128,7 @@ This allows the application to preserve records even after closing.
 
 ---
 
-## ▶How to Run
+## How to Run
 
 1. Open the project in **VS Code**, **IntelliJ IDEA**, or **NetBeans**.
 2. Make sure all Java source files are in the same project.
@@ -195,3 +195,13 @@ Software Engineering Student
 COMSATS University Islamabad, Wah Campus
 
 ---
+## GUI Screenshots
+<img width="1032" height="639" alt="11" src="https://github.com/user-attachments/assets/9a6c8964-eb8e-4718-af99-ae3f2ef0df45" />
+
+## Category
+<img width="246" height="162" alt="Screenshot 2026-07-29 144125" src="https://github.com/user-attachments/assets/2d71540f-35ae-4c1e-b55d-fb6ee5f6d8dd" />
+
+## Buttons
+<img width="284" height="146" alt="22" src="https://github.com/user-attachments/assets/75c2fc19-77c1-4758-a9e0-ff3fa20e99a0" />
+<img width="288" height="150" alt="3" src="https://github.com/user-attachments/assets/961a469e-cf50-43c0-8b30-8a44fc0b0657" />
+<img width="296" height="163" alt="4" src="https://github.com/user-attachments/assets/5d8d8f9f-3a12-40bc-a093-d365bfd7dbb2" />
